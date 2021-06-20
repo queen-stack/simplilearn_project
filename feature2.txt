@@ -1,0 +1,6 @@
+This is adding content to the file - then committing 
+:wq!
+:qw!
+
+
+
